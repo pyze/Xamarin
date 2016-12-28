@@ -1,2 +1,3 @@
 # Xamarin
-iOS and Unity Xamarin Pyze SDK
+iOS and Android Xamarin Pyze SDK
+For documentation please visit: https://xamarin.pyze.com 
